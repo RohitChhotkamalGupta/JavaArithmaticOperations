@@ -3,14 +3,14 @@
 This is a basic java project showcasing use of java arithmatic operators .
 Here operarions are done using 2 operands only.
 After running the program a list of operations will apear like
-  **1. Addition
+  1. Addition
   2. Subtaction
   3. Multiplication
   4. Division
   5. Modulus
   6. Exit
   
-  Enter your choice : **
+  Enter your choice : 
 
 This list has put in while loop so untill you give 6 as input or some invalid choice it will keep iterating and you don't have to run program manually everytime.
 Here you have to give integer value like 1 for addition 2 for subtration.
